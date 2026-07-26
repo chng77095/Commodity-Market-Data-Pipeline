@@ -269,6 +269,7 @@ This project is intended for educational and portfolio purposes.
 
 
 
----
+---<img width="1004" height="269" alt="clf" src="https://github.com/user-attachments/assets/27ccf419-e342-419b-9441-7fbd9a187ea3" />
+
 
 

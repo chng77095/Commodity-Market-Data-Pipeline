@@ -267,7 +267,7 @@ Stores validated JSON records in Amazon S3 for future analytics and machine lear
 
 This project is intended for educational and portfolio purposes.
 
-
+If all goes well, the result of your code should look something like this. Do note that due to the market being closed during the weekend when this project was preformed, the price ticker shown is fixed.
 
 ---<img width="1004" height="269" alt="clf" src="https://github.com/user-attachments/assets/27ccf419-e342-419b-9441-7fbd9a187ea3" />
 
